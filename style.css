@@ -1,0 +1,39 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: rgb(255, 166, 0);
+}
+
+h4 {
+  color: blueviolet;
+}
+
+.fiyat {
+  width: 45px;
+  border-radius: 5px;
+  background-color: rgb(69, 69, 69);
+  color: #fff;
+}
+
+.shadow {
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.aciklama {
+  border-style: 3px;
+  background-color: #fff;
+}
+
+.aciklama p {
+  border-radius: 10px;
+  background-color: #464646;
+  color: #fff;
+}
+
+.wrapper {
+  background-color: #e9ecef;
+}
