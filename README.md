@@ -1,2 +1,2 @@
-# patika.dev-bootstrap-m-zik-d-kkan-
+# patika.dev-bootstrap-muzik-dukkani
 patika.dev-bootstrap-müzik-dükkanı
